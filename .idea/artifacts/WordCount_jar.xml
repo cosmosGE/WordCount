@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="WordCount:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WordCount_jar</output-path>
+    <root id="root">
+      <element id="archive" name="WordCount.jar">
+        <element id="module-output" name="WordCount" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/lib/flatlaf-2.6.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/beautyeye_lnf.jar" />
+    </root>
+  </artifact>
+</component>
